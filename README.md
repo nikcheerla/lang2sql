@@ -1,0 +1,1 @@
+Lang2SQL is a project to turn unstructured text data into SQL queries. We have a website hosted at http://nikcheerla.github.io/lang2sql where you can try out queries on any SQL dataset of your choosing (that is authenticated by user or password.) Currently our model is limited to SQL queries that do not include any JOINs between multiple tables.
